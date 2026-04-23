@@ -18,7 +18,7 @@ Repositório criado para organizar os estudos de Programação Orientada a Objet
 | 04 | Classe `Produto` (Static/Contador) | 🟢 Fácil | ✅ Finalizado |
 | 05 | Classe `Carro` (Vários Construtores) | 🟡 Médio |  ✅ Finalizado |
 | 06 | Classe `ContaBancaria` (Static Combo) | 🟡 Médio | ✅ Finalizado|
-| 07 | Classe `Aluno` (Full Combo) | 🟡 Médio |  ⏳ Pendente|
+| 07 | Classe `Aluno` (Full Combo) | 🟡 Médio |  ✅ Finalizado |
 | 08 | Composição: `Endereco` -> `Cliente` | 🔴 Difícil |  ⏳ Pendente |
 | 09 | Composição Dupla: Pedido/Cliente | 🔴 Difícil |  ⏳ Pendente |
 | 10 | Combo Foda: Livro/Autor/Editora | 🔴 Difícil |  ⏳ Pendente |
