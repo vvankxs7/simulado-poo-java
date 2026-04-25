@@ -76,7 +76,7 @@ public class DemoAtleta{
             System.out.println(at[i]);
         }
         for(int i=0; i<n; i++){
-            for(int j=0; i<n-1; j++){
+            for(int j=0; j<n-1; j++){
                 if(at[j].getNome().compareTo(at[j+1].getNome()) > 0){
                     Atleta k = at[j];
                     at[j] = at[j+1];
