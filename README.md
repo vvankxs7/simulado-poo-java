@@ -21,7 +21,7 @@ Repositório criado para organizar os estudos de Programação Orientada a Objet
 | 07 | Classe `Aluno` (Full Combo) | 🟡 Médio |  ✅ Finalizado |
 | 08 | Composição: `Endereco` -> `Cliente` | 🔴 Difícil |  ✅ Finalizado|
 | 09 | Composição Dupla: Pedido/Cliente | 🔴 Difícil |  ✅ Finalizado |
-| 10 | Combo Foda: Livro/Autor/Editora | 🔴 Difícil |  ⏳ Pendente |
+| 10 | Combo Foda: Livro/Autor/Editora | 🔴 Difícil |  ✅ Finalizado |
 
 ---
 
